@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: MSML 602
 description: Bodla Krishna Vamshi
+include:
+ -geekathon-notebook.md
