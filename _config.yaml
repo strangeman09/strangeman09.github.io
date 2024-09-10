@@ -1,5 +1,4 @@
-plugins:
- - jekyll-relative-links
+
 theme: jekyll-theme-minimal
 title: MSML 602
 description: Bodla Krishna Vamshi
