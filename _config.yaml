@@ -3,8 +3,3 @@ plugins:
 theme: jekyll-theme-minimal
 title: MSML 602
 description: Bodla Krishna Vamshi
-relative_links:
-  enabled: true
-  collections: true
-include:
- - geekathon-notebook.ipynb
