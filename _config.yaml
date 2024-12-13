@@ -1,7 +1,0 @@
-theme: null
-title: MSML 602
-description: Bodla Krishna Vamshi
-markdown: kramdown
-exclude:
-  - README.md
-  - _config.yml
